@@ -5,7 +5,9 @@ title: Practice 3
  
 ## Step 1:
 - Students upload an image (suggested the yellow star):
+
 ![](/Vnflag.png)
+
 - The image appears on the left, the network automatically trains and the result appears on the right.
 ## Step 2:
 - Students see the quality of the output.
